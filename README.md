@@ -1,4 +1,4 @@
-Django Drip for Django 2
+Django Drip for Django 2 https://github.com/agliottone/django-drip-2
 ====================
 
 [![Build Status](https://secure.travis-ci.org/zapier/django-drip.png)](http://travis-ci.org/zapier/django-drip)
